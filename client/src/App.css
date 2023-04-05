@@ -1,0 +1,41 @@
+.justfordemo{
+  font-size: large;
+  color:green;
+}
+.widthonly60{
+  width:60%;
+  margin-left: 100px;
+}
+.marginleft100{
+  margin-left: 100px;
+}
+.boldtext{
+  font-weight: bold;
+  font-size: large;
+}
+.hvacc{
+  font-size: large;
+  font-weight: bold;
+}
+.contactus{
+  display: flex;
+  flex-direction: row;
+  margin:4px;
+  font-size: large;
+  font-weight: bold;
+  margin-left: 100px;
+}
+.onlyone{
+  margin:50px;
+  display: flex;
+  flex-direction: row;
+  margin-left:100px;
+}
+.home{
+  margin-top: 220px;
+  /* text-align: center;
+  align-items: center; */
+}
+.notfound{
+  margin-top: 220px;
+}
